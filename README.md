@@ -25,7 +25,7 @@ Discover all IP addresses associated with a domain over time and understand its 
 
 ```bash
 git clone https://github.com/vux06/Historical-ip-finder.git
-cd historical-ip-finder
+cd Historical-ip-finder
 pip install -r requirements.txt
 ```
 ---
