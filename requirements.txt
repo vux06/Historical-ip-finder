@@ -1,0 +1,4 @@
+requests
+argparse
+re
+wafw00f 
